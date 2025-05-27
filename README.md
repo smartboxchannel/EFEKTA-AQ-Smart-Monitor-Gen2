@@ -1,1 +1,1 @@
-# -EFEKTA-AQ-Smart-Monitor-Gen2
+# EFEKTA-AQ-Smart-Monitor-Gen2
