@@ -555,7 +555,7 @@
         "attribute": "0220_Custom"
 		},
       "name": "Газостат VOC",
-	  "description": "Активация режима работы датчика как газостата, нужна привязка к исполнительному устройсву по кластеру OnOff.",
+      "description": "Активация режима работы датчика как газостата, нужна привязка к исполнительному устройсву по кластеру OnOff.",
       "type": "Boolean",
       "init": false,
       "value": false
@@ -567,7 +567,7 @@
         "attribute": "0221_Custom"
 		},
       "name": "Газостат VOC, верхняя граница",
-	  "unit": "ppm",
+      "unit": "ppm",
       "type": "Integer",
       "init": false,
       "value": 1,
@@ -581,7 +581,7 @@
         "attribute": "0222_Custom"
 		},
       "name": "Газостат VOC, нижняя граница",
-	  "unit": "ppm",
+      "unit": "ppm",
       "type": "Integer",
       "init": false,
       "value": 1,
